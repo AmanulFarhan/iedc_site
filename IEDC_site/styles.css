@@ -1,0 +1,44 @@
+.main{
+    background-color: black;
+}
+.navbar{
+    background-color: black;
+    color:white;
+}
+.image1{
+    height:50px;
+    width:50px;
+
+}
+.heading1{
+    font-size: 35px;
+    font-weight: bold;
+    color:blue
+}
+.heading2{
+    color: white;
+}
+.header{
+    text-align: center;
+}
+.image2{
+    height: 65vh;
+    width: 65%;
+}
+.align_img{
+    text-align: center;
+}
+.text{
+    color: grey;
+}
+.card{
+    background-color: black;
+    color: grey;
+}
+.text2{
+    color:darkgray
+}
+.navbar-toggler {
+    background-color:  blue;
+    border: solid 1px white;
+}
